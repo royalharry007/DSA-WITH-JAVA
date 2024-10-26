@@ -1,1 +1,41 @@
-hello 
+class Solution {
+    public int romanToInt(String s) {
+
+  //Creating a map which consist of character as key and integer as value      
+  Map<Character , Integer> romanValue = new HashMap<>();
+
+  
+    // Assigning the values to the charcter 
+   romanValue.put('I',1);
+   romanValue.put('V',5);
+   romanValue.put('X',10);
+   romanValue.put('L',50);
+   romanValue.put('C',100);
+   romanValue.put('D',500);
+   romanValue.put('M',1000);
+
+   int total = 0;
+   int preValue = 0;
+
+   for(int i = s.length()-1; i>=0; i--)
+   {
+
+            // getting the value corresponding to their key
+            int currentValue= romanValue.get(s.charAt(i)); 
+            if( currentValue >=  preValue)
+            {
+
+            
+                    total += currentValue; 
+            }
+            else{
+                total -= currentValue;
+            }
+
+        preValue= currentValue;
+
+   }
+     return total;
+
+    }
+}
