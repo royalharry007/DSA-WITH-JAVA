@@ -1,0 +1,33 @@
+class Solution {
+    public boolean isPalindrome(String s) {
+        int st = 0;
+        int end = s.length() - 1;
+
+        while (st < end)
+         {
+                // checking the alphanumeric character  by using prebuilt method
+            if(!Character.isLetterOrDigit(s.charAt(st)))
+            {
+                st++;
+                continue;
+            }
+             if(!Character.isLetterOrDigit(s.charAt(end)))
+            {
+                end--;
+                continue;
+            }
+             // checking by using two pointer approach if at any point the char at i at n-1 will not equal return false
+            if(Character.toLowerCase(s.charAt(st)) !=  Character.toLowerCase(s.charAt(end)))
+            {
+                return false;
+            }
+             st++;
+            end--;
+
+            }
+               
+          
+          
+          return true;
+    }
+}
