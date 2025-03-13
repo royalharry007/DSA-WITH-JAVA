@@ -18,11 +18,13 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -36,4 +38,8 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
