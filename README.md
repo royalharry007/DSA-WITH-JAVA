@@ -5,6 +5,7 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
@@ -18,6 +19,7 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
@@ -42,4 +44,16 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
