@@ -6,6 +6,7 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
@@ -20,6 +21,7 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
@@ -39,6 +41,7 @@ hello everyone this is dsa with java i wil uploadin here the soloution of java t
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/royalharry007/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
